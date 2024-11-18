@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="594mm"
+   height="420mm"
+   viewBox="0 0 594 420"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="MotorMeshCtrl-diagram.svg"
+   inkscape:export-filename="MotorMeshCtrl-diagram.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.33807871"
+     inkscape:cx="1203.8617"
+     inkscape:cy="965.75145"
+     inkscape:window-width="1920"
+     inkscape:window-height="989"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(2.2135517)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       id="rect1"
+       width="84.31636"
+       height="209.31636"
+       x="339.46982"
+       y="143.38211" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       id="rect2"
+       width="169"
+       height="107"
+       x="22.792576"
+       y="248.29028" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.816715;stroke-dasharray:none"
+       id="rect3"
+       width="264.7865"
+       height="147.99126"
+       x="22.950933"
+       y="87.063469" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none"
+       id="rect4"
+       width="85.221733"
+       height="48.144749"
+       x="153.16399"
+       y="-548.49292"
+       transform="rotate(90)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none"
+       id="rect5"
+       width="78"
+       height="69"
+       x="485.4205"
+       y="287.26685" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 524.42051,238.38571 v 48.88113"
+       id="path7" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 538.99982,238.63571 v 48.63113"
+       id="path8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 512.99059,238.38571 v 48.88113"
+       id="path9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 401.75963,352.94845 v 26.69887 h 111.36325 v -23.38049"
+       id="path10" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 397.28015,352.94845 -0.19565,38.06774 127.33601,0.0336 v -34.78294"
+       id="path11"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 391.01225,352.69848 -0.19566,45.7851 h 148.31552 v -42.21675"
+       id="path12"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="155.30284"
+       y="158.43806"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="155.30284"
+         y="158.43806">Batería</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="155.30284"
+         y="172.54919"
+         id="tspan13">40V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="106.51212"
+       y="301.63043"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="106.51212"
+         y="301.63043">Motor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="513.12292"
+       y="317.1145"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="stroke-width:0.264583"
+         x="513.12292"
+         y="317.1145">ESP32</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="440.75146"
+       y="283.34491"
+       id="text15-4"><tspan
+         sodipodi:role="line"
+         id="tspan15-3"
+         style="stroke-width:0.264583"
+         x="440.75146"
+         y="283.34491">KEY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="-211.10794"
+       y="528.5354"
+       id="text16"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         style="stroke-width:0.264583"
+         x="-211.10794"
+         y="528.5354">PEDAL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="-304.88492"
+       y="385.7373"
+       id="text16-6"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan16-3"
+         style="stroke-width:0.264583"
+         x="-304.88492"
+         y="385.7373">CONTROLLER MOTOR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="449.37421"
+       y="377.11694"
+       id="text17"><tspan
+         sodipodi:role="line"
+         id="tspan17"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="449.37421"
+         y="377.11694">green</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="-270.1087"
+       y="509.53055"
+       id="text17-7"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan17-5"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="-270.1087"
+         y="509.53055">green</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="-270.1087"
+       y="522.24823"
+       id="text17-7-2"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan17-5-5"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="-270.1087"
+         y="522.24823">black</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="-270.1087"
+       y="537.1095"
+       id="text17-7-2-7"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan17-5-5-2"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="-270.1087"
+         y="537.1095">red</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="449.37421"
+       y="388.56601"
+       id="text17-6"><tspan
+         sodipodi:role="line"
+         id="tspan17-0"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="449.37421"
+         y="388.56601">white</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="449.37421"
+       y="397.43231"
+       id="text17-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan17-0-4"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         x="449.37421"
+         y="397.43231">blue</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 192.04258,291.51993 h 92.58148 l -1.17393,92.7576 h 85.69566 v -31.57908"
+       id="path17" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 381.62798,352.69848 3e-5,42.62956 H 265.90289 l 0.2767,-93.53776 h -74.38701"
+       id="path18" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 287.73744,161.05909 h 27.40835 v 211.85215 h 40.69566 v -20.21279"
+       id="path19" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.7556px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="96.527924"
+       y="50.960815"
+       id="text19"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         style="stroke-width:0.264583"
+         x="96.527924"
+         y="50.960815">Borrador: Diagrama Eléctrico Motor Mesh Ctrl</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 410.61383,352.94845 v 13.11764 h 42.88756 v -69.17348"
+       id="path20" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 413.79582,352.69791 v 9.35612 h 35.69351 v -65.15185"
+       id="path21" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
+       id="rect21"
+       width="33.341621"
+       height="27.095343"
+       x="434.27118"
+       y="269.79724" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="451.04065"
+       y="290.76926"
+       id="text21"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="451.04065"
+         y="290.76926">empalmado</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 287.73745,165.81521 h 23.43486 v 211.40217 h 49.6366 v -24.77847"
+       id="path1" />
+  </g>
+</svg>
