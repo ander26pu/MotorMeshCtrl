@@ -38,7 +38,10 @@
 - **Protocolo de Comunicación**: ESP-NOW.
 - **Interfaz Gráfica**: Creada para el WT32-SC01 Plus, diseñada para monitoreo y ajustes.
 
-### Diagrama de Bloques
+### Diagrama Pictórico nodo esclavo
+
+![OpenWebDocs Logo: Carle el ratón de biblioteca](electronics/MotorMeshCtrl_bb.png)
+
 
 
 ---
