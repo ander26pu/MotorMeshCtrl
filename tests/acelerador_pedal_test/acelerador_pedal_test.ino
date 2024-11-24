@@ -1,6 +1,6 @@
 // Valor de porcentaje
-int porcentaje=100;
-int max=98+(255-98)*porcentaje/100;
+float porcentaje=100.0;
+float max=50.0+(255.0-98.0)*porcentaje/100.0;
 // Configuración del pin ADC
 const int pedalPin = 34; // Pin ADC donde está conectado el pedal (cambiar según conexión)
 const int adcResolution = 12; // Resolución del ADC en bits (12 bits = 0-4095)
@@ -36,7 +36,7 @@ void loop() {
   // Leer la señal analógica del pedal
   int pedalValue = analogRead(pedalPin);
   // Incrementar o decrementar el valor PWM
-  pwmValue =map(pedalValue, 800, 3000, 98, 255);;
+  pwmValue =map(pedalValue, 800, 3000, 50, int(max));;
   // Asignar el valor PWM al canal
   ledcWrite(pwmChannel, pwmValue);
   // Imprimir el valor al Serial Plotter
